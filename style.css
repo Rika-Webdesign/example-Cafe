@@ -17,7 +17,7 @@ img {
   /* 高さを画面いっぱいに広げる */
   height: 100vh;
   /* 背景画像を配置 */
-  background-image: url("mainvisual.pc.jpg");
+  background-image: url("./mainvisual.pc.jpg");
   /* 背景画像が常に縦横比を維持したまま前面を覆うようにサイズ指定 */
   background-size: cover;
    /* 背景画像が常に中央に配置されるように指定 */
